@@ -5,9 +5,10 @@
 This is a sample Chrome extension that demonstrates how to use [TailwindCSS](https://tailwindcss.com/), a utility-first CSS framework, and [Flowbite](https://flowbite.com/), a UI components library based on TailwindCSS, to create a stylish chrome extension. [PostCSS](https://postcss.org/) is also used.
 
 **Popup Page**
-[]
+![popup page](./demo/popup-page.png)
 
 **Options Page**
+![options page](./demo/options page.png)
 
 ## Installation
 
