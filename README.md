@@ -1,16 +1,18 @@
-# Chrome Extension with Tailwind CSS and Flowbite
+<h1 align="center">Chrome Extension with Tailwind CSS and Flowbite</h1>
+
+<p align="center">
+  <em>Unlock the Power of Stylish Chrome Extensions</em>
+</p>
 
 ## Overview
 
 This is a sample Chrome extension that demonstrates how to use [TailwindCSS](https://tailwindcss.com/), a utility-first CSS framework, and [Flowbite](https://flowbite.com/), a UI components library based on TailwindCSS, to create a stylish chrome extension. [PostCSS](https://postcss.org/) is also used.
 
-**Popup Page**
+Looks:
 
-![popup page](./demo/popup-page.png)
-
-**Options Page**
-
-![options page](./demo/options-page.png)
+| ![Popup Page](./demo/popup-page.png) | ![Options Page](./demo/options-page.png) |
+| :----------------------------------: | :--------------------------------------: |
+|              Popup Page              |               Options Pag                |
 
 ## Installation
 
@@ -31,7 +33,7 @@ git clone https://github.com/prnvbn/tailwind-flowbite-chrome-extension.git
 1. Navigate to `chrome://extensions` in Chrome;
 2. Enable the Developer mode (upper right toggle button)
 3. Click on Load unpacked extension (upper left navigation bar)
-4. Upload the entire extension folder
+4. Upload the extension folder
 
 ## Features
 
