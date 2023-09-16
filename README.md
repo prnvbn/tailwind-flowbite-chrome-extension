@@ -3,16 +3,20 @@
 <p align="center">
   <em>Unlock the Power of Stylish Chrome Extensions</em>
 </p>
-
+<p align="center">
+  <a href="https://github.com/prnvbn/tailwind-flowbite-chrome-extension">
+    <img src="https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue.svg" alt="View on GitHub">
+  </a>
+</p>
 ## Overview
 
-This is a sample Chrome extension that demonstrates how to use [TailwindCSS](https://tailwindcss.com/), a utility-first CSS framework, and [Flowbite](https://flowbite.com/), a UI components library based on TailwindCSS, to create a stylish chrome extension. [PostCSS](https://postcss.org/) is also used.
+This is a sample Chrome extension that demonstrates how to use [TailwindCSS](https://tailwindcss.com/), a utility-first CSS framework, and [Flowbite](https://flowbite.com/), a UI components library based on TailwindCSS, to create a stylish chrome extension. [PostCSS](https://postcss.org/) has also been added
 
-Looks:
+**Looks:**
 
-| ![Popup Page](./demo/popup-page.png) | ![Options Page](./demo/options-page.png) |
-| :----------------------------------: | :--------------------------------------: |
 |              Popup Page              |               Options Pag                |
+| :----------------------------------: | :--------------------------------------: |
+| ![Popup Page](./demo/popup-page.png) | ![Options Page](./demo/options-page.png) |
 
 ## Installation
 
